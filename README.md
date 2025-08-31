@@ -8,6 +8,7 @@
  - Push button
  - Wires
  - Polarized Capacitor (25V, 100μF)
+ - Servo motor
  - cardboard (You can design the look to your liking)
    
 # Build
